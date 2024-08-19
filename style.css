@@ -1,0 +1,284 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    height: 90px;
+    background-color: #f85606;
+}
+.text h3{
+    font-size: 11px;
+    color: white;
+    margin-top: 5px;
+    margin-inline: 10px;
+}
+.text h3:hover{
+    color: gray;
+    transition: 0.3s;
+}
+.text{
+    display: flex;
+}
+.text1 input{
+    margin-bottom: 15px;
+    margin-left: 30px;
+    border: none;
+    border: hidden;
+    border-radius: 16px;
+}
+
+.text1{
+    display: flex;
+}
+.text2{
+    color: white;
+    margin-top: 8px;
+    margin-left: 30px;
+    font-size: 18px;
+    font-family: arial;
+}
+
+.text2 span:hover{
+    background-color:lightpink;
+    transition: 0.9s;
+}
+.mn1{
+    height: 3200px;
+    background-color: lightgray;
+}
+.mn2{
+    justify-content: flex-end;
+    height: 310px;
+    margin-top: 10px;
+    width: 220px;
+    border-radius: 20px;
+    margin-left: 10px;
+    border: 1px solid lightgray;
+    background-color: white;
+}
+.mn2 span{
+    color:#b8afaf;
+    font-weight: 400;
+    font-size: 13px;
+}
+.mn2 i{
+    color:rgb(126, 120, 120);
+    border: 1px solid rgb(189, 189, 189);
+    border-radius: 8px;
+    background-color: lightgray;
+}
+.mn2 span:hover{
+    color: #f85606;
+}
+.mn2 i:hover{
+    color: #f85606;
+}
+.mn4{
+    margin-top: 35px;
+    border-radius: 15px;
+}
+.mn5 img{
+    height: 200px;
+    width: 950px;
+    margin-top: 50px;
+}
+.mn6{
+    height:50px;
+    background-color: #e6d4cc;
+    display: flex;
+    margin-top: 10px;
+}
+.mn6 img{
+    height: 23px;
+    width: 23px;
+    margin-top: -0px;
+}
+.mn6 span{
+    display: flex;
+    margin-top: 10px;
+    margin-inline: 8px;
+}
+.mn7{
+    height: 150px;
+    width: 1129px;
+    margin-top: 30px;
+    background-color: white;
+    display: flex;
+}
+.mn7 p:hover{
+    color: #f85606;
+}
+.mn7 img{
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+h3{
+    color: black;
+    margin-top: 20px;
+}
+.one{
+    height: 70px;
+    background-color: white;
+    display: flex;
+}
+.one p{
+    color: #f85606;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.one h3{
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.on{
+    height: 50px;
+    width:50px;
+    background-color: #f85606;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.to{
+    height: 50px;
+    width:50px;
+    background-color: #f85606;
+    margin-left: 20px;   
+     margin-top: 10px; 
+
+}.thr{
+    height: 50px;
+    width:50px;
+    background-color: #f85606;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.one h4{
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.tow{
+    height: 300px;
+    padding-top: 10px;
+    background-color: white;
+    display: flex;
+}
+.kh{
+    border:1px solid rgb(196, 190, 190);
+}
+.p1{
+    height: 290px;
+    width: 188px;
+    background-color: white;
+    margin-inline: 6px;
+}
+.p1 img{
+    height: 170px;
+    width: 183px;
+}
+.tow p{
+    font-size: 13px;
+    font-weight: 500;
+}
+.ma{
+    display: flex;
+}
+.p1:hover{
+    zoom: 1;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+.ham{
+    height: 160px;
+    width: 165px;
+    background-color: white;
+}
+.han{
+    height: 160px;
+    width: 165px;
+    background-color: white;
+}.hab{
+    height: 160px;
+    width: 165px;
+    background-color: white;
+}.hav{
+    height: 160px;
+    width: 165px;
+    background-color: white;
+}.hac{
+    height: 160px;
+    width: 165px;
+    background-color: white;
+}.hax{
+    height: 160px;
+    width: 165px;
+    background-color: white;
+}
+.main2{
+    display: flex;
+}
+.main3{
+    display: flex;
+    margin-top: 3px;
+}
+.main2 h2{
+    text-align: center;
+    font-size: 14px;
+    margin-left:-40px;
+
+}
+.main3 h2{
+    text-align: center;
+    font-size: 14px;
+    margin-left:-40px;
+}
+.ham:hover{
+    zoom: 1;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+.han:hover{
+    zoom: 1;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+.hab:hover{
+    zoom: 1;
+    box-shadow: 1px 1px 1px 1px gray;
+}.hav:hover{
+    zoom: 1;
+    box-shadow: 1px 1px 1px 1px gray;
+}.hac:hover{
+    zoom: 1;
+    box-shadow: 1px 1px 1px 1px gray;
+}.hax:hover{
+    zoom: 1;
+    box-shadow: 1px 1px 1px 1px gray;
+}.haz:hover{
+    zoom: 1;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+.new{
+    height: 340px;
+    width: 165px;
+    background-color: white;
+    margin-inline: 3px;
+}
+.new{
+    margin-top: 20px;
+}
+.new img{
+    height: 200px;
+    width: 165px;
+}
+.main7{
+    display: flex;
+}
+.new:hover{
+    zoom: 1;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+.pola{
+    height: 1000px;
+    background-color: #b8afaf;
+}
